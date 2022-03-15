@@ -1,0 +1,15 @@
+/Users/taherehrastegarzare/Desktop/Revature/TaherehR/wk-2/Challege1_String/obj/Debug/net6.0/Challege1_String.csproj.AssemblyReference.cache
+/Users/taherehrastegarzare/Desktop/Revature/TaherehR/wk-2/Challege1_String/obj/Debug/net6.0/Challege1_String.GeneratedMSBuildEditorConfig.editorconfig
+/Users/taherehrastegarzare/Desktop/Revature/TaherehR/wk-2/Challege1_String/obj/Debug/net6.0/Challege1_String.AssemblyInfoInputs.cache
+/Users/taherehrastegarzare/Desktop/Revature/TaherehR/wk-2/Challege1_String/obj/Debug/net6.0/Challege1_String.AssemblyInfo.cs
+/Users/taherehrastegarzare/Desktop/Revature/TaherehR/wk-2/Challege1_String/obj/Debug/net6.0/Challege1_String.csproj.CoreCompileInputs.cache
+/Users/taherehrastegarzare/Desktop/Revature/TaherehR/wk-2/Challege1_String/bin/Debug/net6.0/Challege1_String
+/Users/taherehrastegarzare/Desktop/Revature/TaherehR/wk-2/Challege1_String/bin/Debug/net6.0/Challege1_String.deps.json
+/Users/taherehrastegarzare/Desktop/Revature/TaherehR/wk-2/Challege1_String/bin/Debug/net6.0/Challege1_String.runtimeconfig.json
+/Users/taherehrastegarzare/Desktop/Revature/TaherehR/wk-2/Challege1_String/bin/Debug/net6.0/Challege1_String.dll
+/Users/taherehrastegarzare/Desktop/Revature/TaherehR/wk-2/Challege1_String/bin/Debug/net6.0/Challege1_String.pdb
+/Users/taherehrastegarzare/Desktop/Revature/TaherehR/wk-2/Challege1_String/obj/Debug/net6.0/Challege1_String.dll
+/Users/taherehrastegarzare/Desktop/Revature/TaherehR/wk-2/Challege1_String/obj/Debug/net6.0/refint/Challege1_String.dll
+/Users/taherehrastegarzare/Desktop/Revature/TaherehR/wk-2/Challege1_String/obj/Debug/net6.0/Challege1_String.pdb
+/Users/taherehrastegarzare/Desktop/Revature/TaherehR/wk-2/Challege1_String/obj/Debug/net6.0/Challege1_String.genruntimeconfig.cache
+/Users/taherehrastegarzare/Desktop/Revature/TaherehR/wk-2/Challege1_String/obj/Debug/net6.0/ref/Challege1_String.dll
