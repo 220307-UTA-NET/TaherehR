@@ -1,0 +1,15 @@
+/Users/taherehrastegarzare/Desktop/Revature/TaherehR/wk-3/BankAccounts/bin/Debug/net6.0/BankAccounts
+/Users/taherehrastegarzare/Desktop/Revature/TaherehR/wk-3/BankAccounts/bin/Debug/net6.0/BankAccounts.deps.json
+/Users/taherehrastegarzare/Desktop/Revature/TaherehR/wk-3/BankAccounts/bin/Debug/net6.0/BankAccounts.runtimeconfig.json
+/Users/taherehrastegarzare/Desktop/Revature/TaherehR/wk-3/BankAccounts/bin/Debug/net6.0/BankAccounts.dll
+/Users/taherehrastegarzare/Desktop/Revature/TaherehR/wk-3/BankAccounts/bin/Debug/net6.0/BankAccounts.pdb
+/Users/taherehrastegarzare/Desktop/Revature/TaherehR/wk-3/BankAccounts/obj/Debug/net6.0/BankAccounts.csproj.AssemblyReference.cache
+/Users/taherehrastegarzare/Desktop/Revature/TaherehR/wk-3/BankAccounts/obj/Debug/net6.0/BankAccounts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/taherehrastegarzare/Desktop/Revature/TaherehR/wk-3/BankAccounts/obj/Debug/net6.0/BankAccounts.AssemblyInfoInputs.cache
+/Users/taherehrastegarzare/Desktop/Revature/TaherehR/wk-3/BankAccounts/obj/Debug/net6.0/BankAccounts.AssemblyInfo.cs
+/Users/taherehrastegarzare/Desktop/Revature/TaherehR/wk-3/BankAccounts/obj/Debug/net6.0/BankAccounts.csproj.CoreCompileInputs.cache
+/Users/taherehrastegarzare/Desktop/Revature/TaherehR/wk-3/BankAccounts/obj/Debug/net6.0/BankAccounts.dll
+/Users/taherehrastegarzare/Desktop/Revature/TaherehR/wk-3/BankAccounts/obj/Debug/net6.0/refint/BankAccounts.dll
+/Users/taherehrastegarzare/Desktop/Revature/TaherehR/wk-3/BankAccounts/obj/Debug/net6.0/BankAccounts.pdb
+/Users/taherehrastegarzare/Desktop/Revature/TaherehR/wk-3/BankAccounts/obj/Debug/net6.0/BankAccounts.genruntimeconfig.cache
+/Users/taherehrastegarzare/Desktop/Revature/TaherehR/wk-3/BankAccounts/obj/Debug/net6.0/ref/BankAccounts.dll

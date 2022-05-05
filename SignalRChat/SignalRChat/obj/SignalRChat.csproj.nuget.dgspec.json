@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/taherehrastegarzare/Desktop/Revature/SignalRChat/SignalRChat/SignalRChat.csproj": {}
+    "/Users/taherehrastegarzare/Desktop/Revature/TaherehR/SignalRChat/SignalRChat/SignalRChat.csproj": {}
   },
   "projects": {
-    "/Users/taherehrastegarzare/Desktop/Revature/SignalRChat/SignalRChat/SignalRChat.csproj": {
+    "/Users/taherehrastegarzare/Desktop/Revature/TaherehR/SignalRChat/SignalRChat/SignalRChat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/taherehrastegarzare/Desktop/Revature/SignalRChat/SignalRChat/SignalRChat.csproj",
+        "projectUniqueName": "/Users/taherehrastegarzare/Desktop/Revature/TaherehR/SignalRChat/SignalRChat/SignalRChat.csproj",
         "projectName": "SignalRChat",
-        "projectPath": "/Users/taherehrastegarzare/Desktop/Revature/SignalRChat/SignalRChat/SignalRChat.csproj",
+        "projectPath": "/Users/taherehrastegarzare/Desktop/Revature/TaherehR/SignalRChat/SignalRChat/SignalRChat.csproj",
         "packagesPath": "/Users/taherehrastegarzare/.nuget/packages/",
-        "outputPath": "/Users/taherehrastegarzare/Desktop/Revature/SignalRChat/SignalRChat/obj/",
+        "outputPath": "/Users/taherehrastegarzare/Desktop/Revature/TaherehR/SignalRChat/SignalRChat/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/taherehrastegarzare/.nuget/NuGet/NuGet.Config"

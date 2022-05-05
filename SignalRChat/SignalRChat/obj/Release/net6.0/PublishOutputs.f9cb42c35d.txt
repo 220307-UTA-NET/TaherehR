@@ -1,0 +1,8 @@
+/Users/taherehrastegarzare/Desktop/Revature/TaherehR/SignalRChat/SignalRChat/obj/Release/net6.0/PubTmp/Out/SignalRChat
+/Users/taherehrastegarzare/Desktop/Revature/TaherehR/SignalRChat/SignalRChat/obj/Release/net6.0/PubTmp/Out/appsettings.Development.json
+/Users/taherehrastegarzare/Desktop/Revature/TaherehR/SignalRChat/SignalRChat/obj/Release/net6.0/PubTmp/Out/appsettings.json
+/Users/taherehrastegarzare/Desktop/Revature/TaherehR/SignalRChat/SignalRChat/obj/Release/net6.0/PubTmp/Out/libman.json
+/Users/taherehrastegarzare/Desktop/Revature/TaherehR/SignalRChat/SignalRChat/obj/Release/net6.0/PubTmp/Out/SignalRChat.dll
+/Users/taherehrastegarzare/Desktop/Revature/TaherehR/SignalRChat/SignalRChat/obj/Release/net6.0/PubTmp/Out/SignalRChat.deps.json
+/Users/taherehrastegarzare/Desktop/Revature/TaherehR/SignalRChat/SignalRChat/obj/Release/net6.0/PubTmp/Out/SignalRChat.runtimeconfig.json
+/Users/taherehrastegarzare/Desktop/Revature/TaherehR/SignalRChat/SignalRChat/obj/Release/net6.0/PubTmp/Out/SignalRChat.pdb
